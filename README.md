@@ -1,6 +1,6 @@
 # whoname00
 Testing website
-Site: https://itsdominus.github.io/whoname00/
+https://itsdominus.github.io/whoname00/
 
 # Update Log
 
